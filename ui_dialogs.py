@@ -1,5 +1,5 @@
 """
-ui_dialogs.py — نوافذ الحوار
+نوافذ الحوار
 LoginWindow | CreateVaultDialog | AccountDialog | AccountDetailDialog | GeneratorWindow
 """
 import time
