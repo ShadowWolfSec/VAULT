@@ -1,5 +1,5 @@
 """
-storage.py — إدارة الملفات الآمنة
+إدارة الملفات 
 atomic_write | SecureFileManager | النسخ الاحتياطية | التحقق من التكامل
 """
 import os
