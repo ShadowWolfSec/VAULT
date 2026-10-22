@@ -18,8 +18,6 @@ from exceptions import VaultError
 # ════════════════════════════════════════════════════════════
 def atomic_write(path: Path, data: bytes):
     """
-    يكتب الملف عبر ملف مؤقت ثم يعيد تسميته لضمان عدم تلف البيانات
-    في حالة انقطاع التيار الكهربائي أو أي خطأ مفاجئ
     """
     tmp = path.with_suffix(path.suffix + ".tmp")
     try:
