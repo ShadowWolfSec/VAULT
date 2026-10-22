@@ -1,5 +1,4 @@
 """
-performance.py — تحسينات الأداء للخزنات الكبيرة
 PerformanceOptimizer | LazyAccountLoader | cached_icon_lookup
 """
 import time
