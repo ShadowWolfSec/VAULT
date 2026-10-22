@@ -1,5 +1,4 @@
 """
-crypto.py — محرك التشفير
 AES-256-GCM + Scrypt + HKDF + HMAC-SHA256
 """
 import os
