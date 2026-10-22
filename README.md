@@ -1,9 +1,9 @@
 -- 🔐 VAULT — خزنة كلمات المرور الآمنة
 
-تطبيق سطح مكتب لإدارة كلمات المرور بتشفير عسكري المستوى، مبني بـ Python + Tkinter.
+تطبيق سطح مكتب لإدارة كلمات المرور بتشفير متقدم قوس مبني بـ Python + Tkinter.
 
 ---
--- ✨ المميزات
+-- المميزات
 
 -- الأمان
 - تشفير AES-256-GCM لكل البيانات
@@ -79,26 +79,7 @@ VAULT\
 
 ---
 
--- 🔨 بناء EXE
 
--- PyArmor + PyInstaller (الحماية الأساسية)
-```
-build_pyarmor.bat
-```
-
--- PyArmor + Cython + PyInstaller (حماية أقوى)
-يتطلب Visual Studio Build Tools
-https://visualstudio.microsoft.com/visual-cpp-build-tools/
-```
-backup_sources.bat
-build_protected.bat
-```
-
--- إنشاء Installer
-يتطلب Inno Setup 6 — يُكتشف تلقائياً عند البناء.
-https://jrsoftware.org/isdl.php
-
----
 
 -- 🏗️ هيكل المشروع
 
