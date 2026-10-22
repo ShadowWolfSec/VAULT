@@ -9,7 +9,7 @@ from constants import C, FONT_BOLD, FONT_SMALL, FONT_MONO
 
 
 def styled_btn(parent, text: str, command, color=None, width=None, small: bool = False):
-    """زر مُنسَّق بالألوان الحالية"""
+    """زر مُنسق بالألوان الحالية"""
     bg = color or C["btn_bg"]
     font = FONT_SMALL if small else FONT_BOLD
     b = tk.Button(
