@@ -1,5 +1,5 @@
 """
-security.py — طبقة الأمان
+طبقة الأمان
 SecureString | SecureLogger | ErrorHandler | LockManager
 """
 import json
