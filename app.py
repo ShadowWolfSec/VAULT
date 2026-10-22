@@ -1,5 +1,5 @@
 """
- الرئيسي  
+   
 """
 import time
 import csv
