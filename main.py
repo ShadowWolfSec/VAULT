@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-main.py — نقطة الدخول للتطبيق
-التشغيل: python main.py  أو  pythonw main.py
-المتطلبات: pip install cryptography
+
 """
 import sys
 import os
