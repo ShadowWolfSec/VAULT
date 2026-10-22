@@ -1,5 +1,5 @@
 """
-theme.py — إدارة المظهر (داكن / فاتح / تلقائي)
+إدارة المظهر (داكن / فاتح / تلقائي)
 """
 from constants import C, DARK_C, LIGHT_C
 
