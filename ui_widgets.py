@@ -1,5 +1,5 @@
 """
-ui_widgets.py — مكونات الواجهة المساعدة القابلة لإعادة الاستخدام
+ مكونات الواجهة المساعدة القابلة لإعادة الاستخدام
 styled_btn | styled_entry | section_label | divider
 """
 import tkinter as tk
