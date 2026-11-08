@@ -1,6 +1,11 @@
 # VAULT — Secure Password Vault
 
 A desktop application for managing passwords, built with **Python** and **Tkinter**.
+
+## Download
+
+**Windows:** Download and run the [VAULT Setup v1.0.0](https://github.com/ShadowWolfSec/VAULT/releases/download/v1.0.0/VAULT_Setup.exe) installer.
+
 ## Features
 
 ### Security
